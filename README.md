@@ -1,6 +1,6 @@
 # A Reproduction and Critique of Kolmogorov-Arnold Networks
 
-This is the repository for the main project of the course _Deep Learning, Advanced Course_ I took during my exchange semester in KTH, together with @pol-resina and @andrelindgren.
+This is the repository for the main project of the course _Deep Learning, Advanced Course_ I took during my exchange semester in KTH, together with [@pol-resina](https://github.com/pol-resina) and [@andrelindgren](https://github.com/andrelindgren).
 
 ### Abstract:
 _This project replicates Kolmogorov-Arnold Networks (KANs), confirming their
